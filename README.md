@@ -1,6 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=TNVC&theme=java-dark&border_radius=0.5&type=png)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNVC&layout=compact&theme=java-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNVC&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://habr.com/ru/users/TNVC/)">
